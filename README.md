@@ -1,6 +1,3 @@
-hello
-hello again
-helloooo
 # ICS4U
 This includes the major projects that I have created in my ICS4U course where we learned C++. The units we learned include:
 - The C++ Programming Language
